@@ -1,7 +1,7 @@
 ﻿# -Game-of-Thrones <br>
 link do servidor que o site está hospedado via vercel: https://game-of-thrones-taupe.vercel.app/ <br>
 
-## Game of Thrones é um site que se baseia na famosa serie, poréem só apenas se baseia pelo design. <br>
+## Game of Thrones é um site que se baseia na famosa serie, porém só apenas se baseia pelo design. <br>
 
 #### No entanto, a funcionalidade do site é bastante simples. O objetivo principal é permitir que os usuários alternem entre os temas claro e escuro com apenas um clique. Quando um usuário clica no sol, o site muda para o tema claro, enquanto clicar na lua alterna o site para o tema escuro. Essa mudança é feita de forma dinâmica, tornando a transição suave e agradável. <br>
 
